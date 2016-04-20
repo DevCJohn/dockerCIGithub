@@ -10,3 +10,7 @@ deployment:
 test:
   override:    
     - mocha
+
+notify:
+  webookhs:
+      https://registry.hub.docker.com/u/devcjohn/dockercigithub/trigger/41ab3fb5-e92e-4e3b-9c5d-01f9954bc7d6/
